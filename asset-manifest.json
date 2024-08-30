@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/studentEduTrack-reactjs/static/css/main.838089b7.css",
+    "main.js": "/studentEduTrack-reactjs/static/js/main.0fac5e40.js",
+    "static/js/453.99182054.chunk.js": "/studentEduTrack-reactjs/static/js/453.99182054.chunk.js",
+    "static/media/ABC.png": "/studentEduTrack-reactjs/static/media/ABC.1ed4acb62af409575b9b.png",
+    "index.html": "/studentEduTrack-reactjs/index.html",
+    "main.838089b7.css.map": "/studentEduTrack-reactjs/static/css/main.838089b7.css.map",
+    "main.0fac5e40.js.map": "/studentEduTrack-reactjs/static/js/main.0fac5e40.js.map",
+    "453.99182054.chunk.js.map": "/studentEduTrack-reactjs/static/js/453.99182054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838089b7.css",
+    "static/js/main.0fac5e40.js"
+  ]
+}
